@@ -37,13 +37,13 @@ background-color: #f2f2f2;
 padding: 20px;
 }
 .success input{
-    border: 5px solid green;
+    border: 3px solid green;
 }
 .success p{
     visibility: hidden;
 }
 .error input{
-    border: 5px solid red;
+    border: 3px solid red;
 }
 .error p{
     color: red;
